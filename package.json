@@ -1,0 +1,34 @@
+{
+  "name": "piglow-cli",
+  "version": "0.0.0",
+  "description": "commandline interface for the piglow",
+  "main": "index.js",
+  "author": "Manuel Ernst <zaphod84@gmx.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaphod1984/node-piglow-cli"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.6.1",
+    "piglow": ">=1.0.1 <= 2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.1",
+    "chai": "~1.7.2"
+  },
+  "keywords": [
+    "pimoroni",
+    "piglow",
+    "raspberry pi",
+    "led",
+    "cli"
+  ],
+  "bin": {
+    "piglow": "bin/piglow.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests --timeout 5000"
+  }
+}
