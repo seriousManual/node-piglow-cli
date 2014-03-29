@@ -9,7 +9,7 @@
 ## Installation
 
 ````bash
-npm install -g node-piglow-cli 
+npm install -g piglow-cli 
 ````
 
 For more details see [node-piglow](https://github.com/zaphod1984/node-piglow).
