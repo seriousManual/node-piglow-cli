@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var argv = require('optimist').argv;
+var argv = require('yargs').argv;
 var piGlow = require('piglow');
 
 delete argv._;
