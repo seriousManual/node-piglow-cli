@@ -1,10 +1,10 @@
-# node-piglow-cli
-
-[![Build Status](https://travis-ci.org/zaphod1984/node-piglow-cli.png)](https://travis-ci.org/zaphod1984/node-piglow-cli)
+# node-piglow-cli [![Build Status](https://travis-ci.org/zaphod1984/node-piglow-cli.png)](https://travis-ci.org/zaphod1984/node-piglow-cli)
 
 [![NPM](https://nodei.co/npm/piglow-cli.png)](https://nodei.co/npm/piglow-cli/)
 
 [![NPM](https://nodei.co/npm-dl/piglow-cli.png?months=3)](https://nodei.co/npm/piglow-cli/)
+
+node-piglow-cli provides a cli interface for the piglow a led board for the raspberry pi.
 
 ## Installation
 
