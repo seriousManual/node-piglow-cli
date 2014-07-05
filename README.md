@@ -37,7 +37,7 @@ ring4  0       100     0
 ring5  0       100     0
 ````
 
-Example
+### Example
 ````bash
 piglow --mocked --ring_0 100 --leg_1 --l_2_5 10
 
