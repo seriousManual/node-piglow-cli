@@ -1,6 +1,6 @@
 {
   "name": "piglow-cli",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "commandline interface for the piglow",
   "main": "index.js",
   "author": "Manuel Ernst <zaphod84@gmx.de>",
