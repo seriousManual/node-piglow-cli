@@ -10,12 +10,12 @@
   },
   "license": "MIT",
   "dependencies": {
-    "piglow": ">=2.0.0 <= 3.0.0",
-    "yargs": "~1.2.1"
+    "piglow": "^2.2.0",
+    "yargs": "^1.3.3"
   },
   "devDependencies": {
-    "mocha": "~1.12.1",
-    "chai": "~1.7.2"
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
   },
   "keywords": [
     "pimoroni",
