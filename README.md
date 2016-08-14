@@ -1,4 +1,4 @@
-# node-piglow-cli [![Build Status](https://travis-ci.org/zaphod1984/node-piglow-cli.png)](https://travis-ci.org/zaphod1984/node-piglow-cli)
+# node-piglow-cli [![Build Status](https://travis-ci.org/seriousManual/node-piglow-cli.png)](https://travis-ci.org/seriousManual/node-piglow-cli)
 
 [![NPM](https://nodei.co/npm/piglow-cli.png)](https://nodei.co/npm/piglow-cli/)
 
