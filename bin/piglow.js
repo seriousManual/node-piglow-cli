@@ -36,7 +36,7 @@ createInterface(argv, function (error, piGlowInterface) {
             if (value === true) {
                 //shorthand versions
                 piGlowInterface[key];
-            } else {
+            } else  {
                 piGlowInterface[key] = value;
             }
         } else {
