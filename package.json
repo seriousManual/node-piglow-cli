@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "piglow": "^3",
-    "yargs": "^6.3.0"
+    "yargs": "^7.0.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
